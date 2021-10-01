@@ -6,18 +6,28 @@ It Normally Lists the files and directories in ascending alphabetical order.
 ### Examples:
 
 1. To Show the files inside your current working directory:
-   ```
-   $ls
-   ```
+
+```
+ls
+```
+
 2. To Show the files and directory inside a specfic Directory:
-   ```
-   ls {Directory_Path}
-   ```
+
+```
+ls {Directory_Path}
+```
 
 ### Syntax:
+
 ```
 ls [-OPTION] [DIRECTORY_PATH]
 ```
+
+### Interactive training
+
+In this interactive tutorial, you will learn the different ways to use the `ls` command:
+
+[The ls command by Tony](https://devdojo.com/tnylea/ls-command)
 
 ### Additional Flags and their Functionalities:
 
