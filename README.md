@@ -1,3 +1,15 @@
+<p align="center"><img src="https://imgur.com/SJKJThl.png" height="450" width="auto"></p>
+
+<div align="center">
+    <p>
+	    <a name="stars"><img src="https://img.shields.io/github/stars/bobbyiliev/101-linux-commands-ebook?style=for-the-badge"></a>
+	    <a name="forks"><img src="https://img.shields.io/github/forks/bobbyiliev/101-linux-commands-ebook?logoColor=green&style=for-the-badge"></a>
+	    <a name="contributions"><img src="https://img.shields.io/github/contributors/bobbyiliev/101-linux-commands-ebook?logoColor=green&style=for-the-badge"></a>
+	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
+	    <a name="license"><img src="https://img.shields.io/github/license/bobbyiliev/101-linux-commands-ebook?style=for-the-badge"></a>
+    </p>
+</div>
+
 ## 💻 101 Linux commands Open-source eBook
 
 This is an open-source eBook with 101 Linux commands that everyone should know. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use the terminal at some point in your career.
@@ -10,7 +22,7 @@ Feel free to add new topics in case that you don't find one that you like from t
 
 ---
 
-* TODO: [001-the-ls-command.md](ebook/en/content/001-the-ls-command.md)
+* [001-the-ls-command.md](ebook/en/content/001-the-ls-command.md)
 * TODO: [002-the-cd-command.md](ebook/en/content/002-the-cd-command.md)
 * TODO: [003-the-cat-tac-command.md](ebook/en/content/003-the-cat-tac-command.md)
 * [004-the-head-command.md](ebook/en/content/004-the-head-command.md)
@@ -76,7 +88,7 @@ Feel free to add new topics in case that you don't find one that you like from t
 * TODO: [064-the-gunzip-command.md](ebook/en/content/064-the-gunzip-command.md)
 * TODO: [065-the-hostnamectl-command.md](ebook/en/content/065-the-hostnamectl-command.md)
 * TODO: [066-the-iptable-command.md](ebook/en/content/066-the-iptable-command.md)
-* TODO: [067-the-netstat-command.md](ebook/en/content/067-the-netstat-command.md)
+* [067-the-netstat-command.md](ebook/en/content/067-the-netstat-command.md)
 * TODO: [068-the-lsof-command.md](ebook/en/content/068-the-lsof-command.md)
 * TODO: [069-the-bzip2-command.md](ebook/en/content/069-the-bzip2-command.md)
 * TODO: [070-the-service-command.md](ebook/en/content/070-the-service-command.md)
