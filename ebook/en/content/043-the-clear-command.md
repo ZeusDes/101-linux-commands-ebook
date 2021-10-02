@@ -1,22 +1,32 @@
 # The `clear` command
 
-`clear` command is used to clear the terminal window.
+In linux, clear command is used to clear terminal screen.
 
-### Example:
-```
-clear
-```
+## Example
 
-### Syntax
-```
-clear [OPTION]
+```bash
+$ clear
+
 ```
 
-### Flags and their functionalities:
-|**Flag**|**Description**|
-|:---|:---|
-|`-V`|print curses-version|
-|`-x`|do not clear scrollback (can also be done using ctrl+l)|
-|`-T`|Indicates the type of terminal, Usually, this option is unnecessary, because the default is taken from the environment variable **TERM**, but if `-T` is specified, then the shell variable **LINES** and **COLUMNS** will also be ignored|
+  
+## Before:
 
-If the `clear` command is used without flags, it also clear scrollback.
+```bash
+$ echo Hello World
+Hello World
+
+$ clear
+```
+## After executing clear command:
+```bash
+$
+``` 
+
+Screenshot:
+
+![clear command in linux example](https://user-images.githubusercontent.com/21223421/135708520-5fb54205-39ce-4e9c-b376-7569d0c4420d.png)
+
+After running the command your terminal screen will be clear:
+
+![clear command in linux](https://user-images.githubusercontent.com/21223421/135708538-f01de268-3cf6-4f3a-a32b-a14fb67575f1.png)
