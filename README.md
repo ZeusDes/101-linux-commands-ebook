@@ -84,7 +84,7 @@ Feel free to add new topics in case that you don't find one that you like from t
 * [058-the-reboot-command.md](ebook/en/content/058-the-reboot-command.md)
 * [059-the-sort-command.md](ebook/en/content/059-the-sort-command.md)
 * TODO: [060-the-paste-command.md](ebook/en/content/060-the-paste-command.md)
-* TODO: [061-the-exit-command.md](ebook/en/content/061-the-exit-command.md)
+[061-the-exit-command.md](ebook/en/content/061-the-exit-command.md)
 * TODO: [062-the-diff-sdiff-command.md](ebook/en/content/062-the-diff-sdiff-command.md)
 * TODO: [063-the-tar-command.md](ebook/en/content/063-the-tar-command.md)
 * TODO: [064-the-gunzip-command.md](ebook/en/content/064-the-gunzip-command.md)
